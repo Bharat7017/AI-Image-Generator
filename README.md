@@ -1,16 +1,8 @@
-# image_generator
+# image_generator ChatG
 
-A new Flutter project.
+FLutter Project
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-21 at 01 02 47](https://user-images.githubusercontent.com/82909291/226447154-018363ed-4b5f-451a-b976-76bb2e009850.png)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-21 at 01 02 59](https://user-images.githubusercontent.com/82909291/226447176-1d90b361-44c8-49d4-ab9a-d319b374ed69.png)
 
-## Getting Started
+Use your own api key
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
